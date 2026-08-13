@@ -36,3 +36,13 @@
 | AI / Machine Learning | [Platform] | [Reason] |
 | Kubernetes Deployment | [Platform] | [Reason] |
 | Global Web Application | [Platform] | [Reason] |
+
+## Cloud Service Equivalents
+
+| **Service Category** | **AWS** | **Azure** | **GCP** |
+|----------------------|---------|-----------|---------|
+| **Virtual Machine** | EC2 | Virtual Machines | Compute Engine |
+| **Object Storage** | S3 | Blob Storage | Cloud Storage |
+| **Identity Management** | IAM | Azure AD | Cloud IAM |
+| **SQL Database** | RDS | SQL Database | Cloud SQL |
+| **Kubernetes** | EKS | AKS | GKE |

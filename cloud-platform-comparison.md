@@ -25,3 +25,14 @@
 
 ### 4. Which cloud platform would you personally choose and why?
 [Your 2-3 sentence answer]
+
+## Multi-Cloud Decision Matrix
+
+| **Business Requirement** | **Recommended Platform** | **Justification** |
+|--------------------------|--------------------------|-------------------|
+| Startup Company | [Platform] | [Reason] |
+| Enterprise Organization | [Platform] | [Reason] |
+| Microsoft Environment | [Platform] | [Reason] |
+| AI / Machine Learning | [Platform] | [Reason] |
+| Kubernetes Deployment | [Platform] | [Reason] |
+| Global Web Application | [Platform] | [Reason] |

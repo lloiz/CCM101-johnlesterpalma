@@ -31,6 +31,6 @@ If this Linux server were migrated to the cloud, the following services could ho
 - **GKE** - Kubernetes Engine
 
 ### Screenshots
-![Linux Investigation](../screenshots/<img width="1171" height="866" alt="killercoda-terminal1" src="https://github.com/user-attachments/assets/1f22b49e-2c9c-441c-8f76-0b5f810ffdde" />
+/<img width="1171" height="866" alt="killercoda-terminal1" src="https://github.com/user-attachments/assets/1f22b49e-2c9c-441c-8f76-0b5f810ffdde" />
 <img width="1171" height="872" alt="killercoda-terminal" src="https://github.com/user-attachments/assets/29ccfda7-cd41-4684-b336-051232b93db8" />
-)# Laboratory 03: Multi-Cloud Explorer
+)
